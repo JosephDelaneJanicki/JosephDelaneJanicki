@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JosephDelaneJanicki
 - 👀 I’m interested in operating system design and eventually using my own as a platform for other projects of mine
-- 🌱 I’m currently learning computer science at the University of Mississippi
+- 🌱 I’m graduated at the University of Mississippi in computer science
 - 💞️ I’m looking to collaborate on software developement
 - 📫 How to reach me joeydjanicki@gmail.com
 
